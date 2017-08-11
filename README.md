@@ -1,10 +1,10 @@
 <p align="center">
 	<img alt="memriseflat-logo" src="https://cdn.rawgit.com/jakeoid/memrise-flat/5f7ef4eb/etc/logo.png">
 	<br>
-	<a href="https://github.com/StylishThemes/GitHub-Dark/stargazers">
+	<a href="https://github.com/jakeoid/memrise-flat/stargazers">
 		<img src="http://github-svg-buttons.herokuapp.com/star.svg?user=jakeoid&repo=memrise-flat&style=flat&background=007ec6" alt="Star">
 	</a>
-	<a href="http://github.com/StylishThemes/GitHub-Dark/fork">
+	<a href="http://github.com/jakeoid/memrise-flat/fork">
 		<img src="http://github-svg-buttons.herokuapp.com/fork.svg?user=jakeoid&repo=memrise-flat&style=flat&background=007ec6" alt="Fork">
 	</a>
 </p>
@@ -47,6 +47,7 @@ TODO.
 - Yes, we know this is CSS abuse, and we should be in the internet jail right now
 - Yes, we know this isn't even properly formated
 - Yes, we know there's no point on doing this
+- Yes, we know this README and Repo are based off of `github-dark`
 
 ## Contributing
 
