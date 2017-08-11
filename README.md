@@ -9,13 +9,13 @@
 	</a>
 </p>
 
-<h2 align="center">A box-shadow free zone.</h2>
+<h2 align="center">A box-shadow free zone :heart:.</h2>
 
 ## Preview
 
 A flat theme for Memrise, removing the uglier aspects of the website.
 
-> ![TODO.]()
+![Example Photo.](https://cdn.rawgit.com/jakeoid/memrise-flat/d909f71b/etc/screenshot-example-1.png)
 
 ## Installing
 
